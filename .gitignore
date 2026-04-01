@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+logs/
+data/
+
+# Docker
+*.env
+*.dockerignore
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
